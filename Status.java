@@ -1,5 +1,6 @@
 package model;
 
 public enum Status {
-    OPEN, IN_PROGRESS, RESOLVED, CLOSED
+    OPEN, IN_PROGRESS, RESOLVED, CLOSED,REJECTED,REOPENED
+
 }
